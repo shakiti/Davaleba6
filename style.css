@@ -1,0 +1,57 @@
+.logo img{
+	width: 197px;
+	margin-left: 98px;
+	margin-top: 20px;
+
+}
+a{
+	display: inline-block;
+	font-size: 24px;
+	color: #3d58a6;
+}
+.home{
+	color: #7793d8;
+}
+.navbar{
+	display: inline-block;
+	float: right;
+	margin-right: 98px;
+}
+.navbar-li{
+	display: inline-block;
+	margin-right: 18px;
+	margin-top: 40px;
+}
+.greybox{
+  	background: #e6e6e6;
+  	padding: 30px 98px 30px 98px;
+  	margin-top: 30px;
+}
+.pic1{
+    width: 1320px;
+}
+.bluebox{
+	background: #363e97;
+	padding: 35px 98px 89px 98px;
+}
+h1{
+	font-size: 24px;
+	color: #ffffff;
+	margin-bottom: 30px;
+}
+.video1{
+	width: 570px;
+	height: 320px;
+	margin-right: 170px;
+}
+.video2{
+	width: 570px;
+	height: 320px;
+}
+.greybox2{
+	background: #e6e6e6;
+}
+.picss{
+	width: 270px;
+	display: inline-block;
+}
